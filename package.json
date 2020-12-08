@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-buildversion",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-buildversion",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "jumanor",
+  "license": "ISC",
+  "description": ""
+}
